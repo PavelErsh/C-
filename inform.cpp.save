@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main (){
+char first [20];
+char last [20];
+cout << "What is your first name? ";
+cin.get(first, 20);
+cout << "What is your last name? ";
+cin.get(last, 20);
+cout << "What letter hrade do you deserve? ";
+char token;
+cin >> token;
+
+}
